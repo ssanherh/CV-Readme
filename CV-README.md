@@ -51,7 +51,7 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
   +Backend: Laravel Django Dapps MongoDB MySQL Node Web3
   
 
-#### Lenguajes de programación y frameworks manejados:
+##### Lenguajes de programación y frameworks manejados:
   + C++
   + Java
   + HTML
@@ -71,7 +71,7 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
   + Bootstrap
   + Quintus Framework for JS Videogames
   
-#### Otros conocimientos:
+###### Otros conocimientos:
   +Sound Technician 
   +Cultural Manager 
   +Organizative 
