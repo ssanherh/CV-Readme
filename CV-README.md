@@ -47,6 +47,7 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
 
 #### Software manejado:
   +Frontend: HTML CSS Javascript Bootstrap React Angular 
+  
   +Backend: Laravel Django Dapps MongoDB MySQL Node Web3
   
 
