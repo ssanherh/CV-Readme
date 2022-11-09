@@ -1,6 +1,6 @@
 # **Sergio Sánchez Herrero**
 
-   <img src="https://gtemusica.com/wp-content/uploads/2021/04/84825647_10222452483126978_8738240603004862464_n.jpg" style="width: 511px; height: 456px; position: center" >
+   <img src="[https://gtemusica.com/wp-content/uploads/2021/04/84825647_10222452483126978_8738240603004862464_n.jpg]" style="width: 511px; height: 456px; position: center" >
 
 ## **Información personal**
 
@@ -37,34 +37,18 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
  ### **Formación complementaria**
    | Nombre                                                              | Centro                    | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| First Certificate of English | British Council          | 2013          | 2016       |
-| Nivel B1 de Francés                                               | Escuela Oficial de Idiomas | 2013          | 2015       |
-| Árbitro regional de esgrima        | Federación Madrileña de esgrima      | 2015          | 2015     |
-| Árbitro nacional de esgrima | Real Federación Española de esgrima        | 2016          | 2016       |
+| C1 of English | TOEIC          | 2020          | 2020       |
+| Nivel B1 de Inglés                                               | Cambridge | 2010          | 2012       |
+| Integral Cultural Management of Theaters, Auditoriums and Scenic Spaces (Gestión Cultural)        | IGECA – Program certified by the European University Miguel de Cervantes and the Ibero-American Foundation for Cultural and Creative Industries.      | 2022          | 2022     |
+| Erasmus Intensive Course of Polish Language | Beginners level, A1 (September 2, 2013-September 28, 2013) – written exam: C, oral exam: A – University of Łódź, School of Polish for Foreign Students.        | 2013          | 2013       |
+| Microsoft Office Training Course        | MS Windows, MS Office (Word, Access, Excel), Internet – April 22, 2006 – Tuinfor Grupo Eninfes, S.L. – Castalla.      | 2005          | 2006     |
 
   ### **Habilidades técnicas**
 
 #### Software manejado:
-  + Paquete de Microsoft Office
-  + Herramientas de presentación como Prezi o SlideShare
-  + Microsoft Visual Studio 
-  + Eclipse IDE
-  + IntelliJ IDEA
-  + Android Studio
-  + JavaFX
-  + IBM Rational Software Architec
-  + IBM Rational Software Architec Designer
-  + Visual Studio Code
-  + CodeBlocks
-  + NetBeans
-  + Git y GitHub
-  + Photoshop CS6
-  + Microsoft Access
-  + Microsoft Publisher
-  + Trello for Agile
-  + FeatureMap
-  + MongoDB
-  + XAMPP
+  +Frontend: HTML CSS Javascript Bootstrap React Angular 
+  +Backend: Laravel Django Dapps MongoDB MySQL Node Web3
+  
 
 #### Lenguajes de programación y frameworks manejados:
   + C++
@@ -87,36 +71,81 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
   + Quintus Framework for JS Videogames
   
 #### Otros conocimientos:
-  + Lenguaje unificado de modelado, UML
-  + Metodologías tradicionales como RUP
-  + Metodologías ágiles como Scrum, Kanban o Scrumban
-  + Filezilla FTP
-  + Microsoft azure para desplegar apliaciones web
-  + SVN para el control de versiones
+  +Sound Technician 
+  +Cultural Manager 
+  +Organizative 
+  +Team Leader
+  +MS Office 
+  +Pyton 
+  +Front/Back End Dev 
+  +Big Data
+  +Data Analyst
+  +Google Cloud Analytics
+  +DAW programs
+  +Driving Licence cat. B/A 
+  +Hardware
+  +Troubleshooting
+  +Remote services
+  +Data Base
+  +Active Directory
+  +Communication
+  +Team Working 
+  +Positive
+  +Great learning ability
+  +Reporting 
+  +ITIL knowledge
+  +PHP 
+  +Github
 
 ## **Experiencia profesional**
 
-+ Profesor particular de Inglés y Matemáticas
-+ Arbitraje regional y nacional en competiciones de esgrima
-+ Animador en centros juveniles
-+ Marcador de publicidad en radio en la empresa ArceMedia
-+ Diseñador web y Web master de páginas web como:
-    + [Pepu Alcalde](http://pepualcalde.org/)
-    + [Tecrima](https://www.tecrima.com/)
-+ Camarero en el restaurante Covanegra(Capdepera, Mallorca)
-+ Becario como Ingeniero de Software en Avanade S.L.U: Ene. 2020 - May. 2020
-   + Durante la beca fue mayormente formación en tecnologías web como AngularJS
-+ Programador en Aghasa Turis: Jun. 2020 - Jun. 2021
-   + Desarrollo e implementación de aplicaciones tanto web como de escritorio utilizando tecnologías web como Node.js, ExpressJS, Vue.js, etc...
-+ Software Developer en FutureSpace: Jun. 2021 - Actualidad
-   + Actualmente trabajando con tecnologías como Java, Vue.js entre otras
++2022-2 – Present 
+   Piano Professor / Music Professor
+   CPMC/Gobernment of Spain (Tenerife and Gran Canaria)
++2021-9 – 2021-12 
+   Music Professor / Secondary Education
+   IES Catalunya (Sant Cugat del Vallès, Barcelona)
++2021-1 – 2021-12 
+   Music Professor / Secondary Education
+   IES Las Huesas (Telde, Las Palmas de Gran Canaria)
++2020-9 – 2020-11
+   Music Professor in Secondary Education
+   IES Tomás de Iriarte (Santa Cruz de Tenerife)
++2020-2 – 2020-8 
+   Piano Repertory Professor ( Degree and Master)
+   Conservatorio Superior de música de Tenerife (Canary Islands)
++2020-1 – present 
+   CEO/Founder/Director/Developer of MuTalMa
+   Consultant in Web Development and Artistic projects
+   Music Talent Masters (Music Castings & Artist Management)
++2019-9 – 2020-2 
+   Piano professor and Head of Dept./ Music Sec. Prof.
+   AD LIBITUM (Academia de música) / Generalitat de Catalunya (Barcelona)
++2019-5 – 2019-6 
+   Repertory professor with Piano Conservatorio Superior de Música de Alicante (Valencian Comunity)
++2018-10 – 2019-01
+   IT Engineer – Analyst Specialist Global 1st, 2nd line support, KONGSBERG Gruppen (VillaJoyosa) collection, recording, resolution, escalation, closure incidents,  service requests, monitoring of the corporate ICT infrastructure, citrix, virtual machines, CRM, Local Support…
++2017-07 – 2018-10 
+   IT Analyst – Europe and America 1st line support HCL Technologies Poland (Kraków) collection, recording, resolution, escalation, closure incidents, service    requests, monitoring of the corporate ICT infrastructure, Service now, vmware, SAP…
++2015-09 – 2016-06 
+   Piano and Musical Language Professor Philharmonic Society “Unión Musical” of Agost (Alicante)
++2008-09 – 2020-12
+   Administrator, Cultural Programmer Escuela y Banda municipal (AMSC) de Castalla (Alicante)
 
-## **Otra información**
+## **Otra información/ Intereses**
 
- - Aptitud para trabajar en equipo y realizar proyectos en forma complementaria
- - Habilidades comunicativas y sociales
- - Compromiso y responsabilidad con mis funciones
- - Pro-activo
- - Socialble
- - Habilidad para crear soluciones prácticas
- - Ganas de aprender
+ -IT services
+ -Music
+ -Big Data
+ -Sports
+ -Culture
+ -Foreign languages
+ -Travel
+ -HR 
+ -Payroll
+ -Composer/Producer
+ -Permormances
+ -Orchestra and chamber music
+ -Masterclasses
+ -Music competitions
+ -Cooking
