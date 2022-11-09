@@ -100,37 +100,37 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
 
 ## **Experiencia profesional**
 
-+2022-2 – Present 
+   +2022-2 – Present 
    Piano Professor / Music Professor
    CPMC/Gobernment of Spain (Tenerife and Gran Canaria)
-+2021-9 – 2021-12 
+   +2021-9 – 2021-12 
    Music Professor / Secondary Education
    IES Catalunya (Sant Cugat del Vallès, Barcelona)
-+2021-1 – 2021-12 
+   +2021-1 – 2021-12 
    Music Professor / Secondary Education
    IES Las Huesas (Telde, Las Palmas de Gran Canaria)
-+2020-9 – 2020-11
+   +2020-9 – 2020-11
    Music Professor in Secondary Education
    IES Tomás de Iriarte (Santa Cruz de Tenerife)
-+2020-2 – 2020-8 
+   +2020-2 – 2020-8 
    Piano Repertory Professor ( Degree and Master)
    Conservatorio Superior de música de Tenerife (Canary Islands)
-+2020-1 – present 
+   +2020-1 – present 
    CEO/Founder/Director/Developer of MuTalMa
    Consultant in Web Development and Artistic projects
    Music Talent Masters (Music Castings & Artist Management)
-+2019-9 – 2020-2 
+   +2019-9 – 2020-2 
    Piano professor and Head of Dept./ Music Sec. Prof.
    AD LIBITUM (Academia de música) / Generalitat de Catalunya (Barcelona)
-+2019-5 – 2019-6 
+   +2019-5 – 2019-6 
    Repertory professor with Piano Conservatorio Superior de Música de Alicante (Valencian Comunity)
-+2018-10 – 2019-01
-   IT Engineer – Analyst Specialist Global 1st, 2nd line support, KONGSBERG Gruppen (VillaJoyosa) collection, recording, resolution, escalation, closure incidents,  service requests, monitoring of the corporate ICT infrastructure, citrix, virtual machines, CRM, Local Support…
-+2017-07 – 2018-10 
-   IT Analyst – Europe and America 1st line support HCL Technologies Poland (Kraków) collection, recording, resolution, escalation, closure incidents, service    requests, monitoring of the corporate ICT infrastructure, Service now, vmware, SAP…
-+2015-09 – 2016-06 
+   +2018-10 – 2019-01
+   IT Engineer – Analyst Specialist Global 1st, 2nd line support, KONGSBERG Gruppen (VillaJoyosa) collection, recording, resolution, escalation, closure incidents,        service requests, monitoring of the corporate ICT infrastructure, citrix, virtual machines, CRM, Local Support…
+   +2017-07 – 2018-10 
+   IT Analyst – Europe and America 1st line support HCL Technologies Poland (Kraków) collection, recording, resolution, escalation, closure incidents, service            requests, monitoring of the corporate ICT infrastructure, Service now, vmware, SAP…
+   +2015-09 – 2016-06 
    Piano and Musical Language Professor Philharmonic Society “Unión Musical” of Agost (Alicante)
-+2008-09 – 2020-12
+   +2008-09 – 2020-12
    Administrator, Cultural Programmer Escuela y Banda municipal (AMSC) de Castalla (Alicante)
 
 ## **Otra información/ Intereses**
@@ -148,11 +148,19 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
  -Foreign languages
  
  -Travel
+ 
  -HR 
+ 
  -Payroll
+ 
  -Composer/Producer
+ 
  -Permormances
+ 
  -Orchestra and chamber music
+ 
  -Masterclasses
+ 
  -Music competitions
+ 
  -Cooking
