@@ -136,11 +136,17 @@ Soy un licenciado en Interpretación de piano, analista y programador. Aunque ac
 ## **Otra información/ Intereses**
 
  -IT services
+ 
  -Music
+ 
  -Big Data
+ 
  -Sports
+ 
  -Culture
+ 
  -Foreign languages
+ 
  -Travel
  -HR 
  -Payroll
